@@ -1,0 +1,6 @@
+gems:
+  - rails 3.0.9
+  - activerecord-jdbcsqlite3-adapter
+  - jruby-openssl
+  - json
+
